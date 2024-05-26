@@ -1,8 +1,8 @@
-## split_compound_words
-#### Use this repository to split the compound words in a textline into a collection of dictionary words.
+### ``split_arabic_compound_words``
+#### Use this repository to split the compound words arabic in a textline into a collection of dictionary words.
 #### for e.g.: 
-#### {'breakingnews': [('breaking', 'news')]}
-#### {'steeringwheel': [('steering', 'wheel')]}
+#### {'عبدالعزيز': [('عبد'، 'العزيز')]}
+#### {'عبدالله': [('عبد', 'الله')]}
 #### {'therabbithole': [('the', 'rabbit', 'hole'), ('th', 'era', 'bb', 'it', 'hole')]}
 
 ### Dependencies
